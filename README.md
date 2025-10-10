@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game development and FiveM development
 - 🌱 I’m currently learning JavaScript, Html and Lua
 - 📫 How to reach me Discord: PokiPoscar
-- ⚡ Fun fact: I don't know what im doing
+- ⚡ Fun fact: I like wolfs
