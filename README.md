@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PokiPoscar
-- 👀 I’m interested in Game development and FiveM development
-- 🌱 I’m currently learning JavaScript, Html and Lua
-- 📫 How to reach me Discord: PokiPoscar
+- 👋 Hi, I’m @PokiTheRock
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: Discord: PokiPoscar
 - ⚡ Fun fact: I like wolfs
