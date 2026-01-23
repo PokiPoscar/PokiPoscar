@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PokiTheRock
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Discord: PokiPoscar
 - ⚡ Fun fact: I like wolfs
